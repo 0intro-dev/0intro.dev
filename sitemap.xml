@@ -4,6 +4,22 @@
   
   <url>
     <loc>https://0intro.dev/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0intro.dev/ori/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0intro.dev/tags/plan9/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://0intro.dev/tags/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -12,10 +28,6 @@
   
   <url>
     <loc>https://0intro.dev/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://0intro.dev/tags/</loc>
   </url>
   
 </urlset>
