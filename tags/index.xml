@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>languages</title>
+      <link>https://0intro.dev/tags/languages/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://0intro.dev/tags/languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>plan9</title>
       <link>https://0intro.dev/tags/plan9/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://0intro.dev/tags/plan9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix</title>
+      <link>https://0intro.dev/tags/unix/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://0intro.dev/tags/unix/</guid>
       <description></description>
     </item>
     
