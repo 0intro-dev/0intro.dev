@@ -9,7 +9,7 @@
     <copyright>© 2020, Sean Hinchee</copyright>
     <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://0intro.dev/tags/plan9/index.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://0intro.dev/tags/plan9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,6 +19,8 @@
       
       <guid>https://0intro.dev/ori/</guid>
       <description>Ori Bernstein discusses Plan 9</description>
+	  <mp3>https://0introsa.blob.core.windows.net/0intro/ori.mp3</mp3>
+	  <youtube_id>jYen3cXss8k</youtube_id>
     </item>
     
   </channel>
