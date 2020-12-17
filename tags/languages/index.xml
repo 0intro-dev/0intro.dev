@@ -19,8 +19,9 @@
       
       <guid>https://0intro.dev/ori/</guid>
       <description>Ori Bernstein discusses Plan 9</description>
-	  <mp3>https://0introsa.blob.core.windows.net/0intro/ori.mp3</mp3>
-	  <youtube_id>jYen3cXss8k</youtube_id>
+      <mp3>https://0introsa.blob.core.windows.net/0intro/ori.mp3</mp3>
+      <youtube_id>jYen3cXss8k</youtube_id>
+      <enclosure url="https://0introsa.blob.core.windows.net/0intro/ori.mp3" type="audio/mpeg" />
     </item>
     
   </channel>

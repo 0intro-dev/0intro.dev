@@ -19,8 +19,9 @@
       
       <guid>https://0intro.dev/tags/languages/</guid>
       <description></description>
-	  <mp3></mp3>
-	  <youtube_id></youtube_id>
+      <mp3></mp3>
+      <youtube_id></youtube_id>
+      <enclosure url="" type="audio/mpeg" />
     </item>
     
     <item>
@@ -30,8 +31,9 @@
       
       <guid>https://0intro.dev/tags/plan9/</guid>
       <description></description>
-	  <mp3></mp3>
-	  <youtube_id></youtube_id>
+      <mp3></mp3>
+      <youtube_id></youtube_id>
+      <enclosure url="" type="audio/mpeg" />
     </item>
     
     <item>
@@ -41,8 +43,9 @@
       
       <guid>https://0intro.dev/tags/unix/</guid>
       <description></description>
-	  <mp3></mp3>
-	  <youtube_id></youtube_id>
+      <mp3></mp3>
+      <youtube_id></youtube_id>
+      <enclosure url="" type="audio/mpeg" />
     </item>
     
   </channel>
