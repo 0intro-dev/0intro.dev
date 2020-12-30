@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, Sean Hinchee</copyright>
-    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
     
   <atom:link href="https://0intro.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>languages</title>
-      <link>https://0intro.dev/tags/languages/</link>
-      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <title>plan9</title>
+      <link>https://0intro.dev/tags/plan9/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://0intro.dev/tags/languages/</guid>
+      <guid>https://0intro.dev/tags/plan9/</guid>
       <description></description>
       <mp3></mp3>
       <youtube_id></youtube_id>
@@ -25,11 +25,11 @@
     </item>
     
     <item>
-      <title>plan9</title>
-      <link>https://0intro.dev/tags/plan9/</link>
+      <title>languages</title>
+      <link>https://0intro.dev/tags/languages/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://0intro.dev/tags/plan9/</guid>
+      <guid>https://0intro.dev/tags/languages/</guid>
       <description></description>
       <mp3></mp3>
       <youtube_id></youtube_id>
